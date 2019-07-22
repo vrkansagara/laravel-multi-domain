@@ -15,3 +15,10 @@ Multidomain = bar.example.com
 - Premium application
 - Large scale and heavy traffic distribution
 - SaaS application
+
+
+## Target HTTP web server
+
+- Nginx
+- Apache and Apache Traffic Server
+- Lighttpd
